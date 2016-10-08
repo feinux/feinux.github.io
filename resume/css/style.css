@@ -230,25 +230,25 @@ p {
 }
 /* Heading Style */
 h1 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Pingfang SC', Helvetica, 'Hiragino Sans GB', 'STHeiti', 'WenQuanYi Micro Hei', 'Open Sans', sans-serif;
   font-size: 55px;
   line-height: 90px;
   font-weight: 400;
 }
 h2 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Pingfang SC', Helvetica, 'Hiragino Sans GB', 'STHeiti', 'WenQuanYi Micro Hei', 'Open Sans', sans-serif;
   font-size: 40px;
   line-height: 65px;
   font-weight: 400;
 }
 h3 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Pingfang SC', Helvetica, 'Hiragino Sans GB', 'STHeiti', 'WenQuanYi Micro Hei', 'Open Sans', sans-serif;
   font-size: 30px;
   line-height: 65px;
   font-weight: 400;
 }
 h4 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Pingfang SC', Helvetica, 'Hiragino Sans GB', 'STHeiti', 'WenQuanYi Micro Hei', 'Open Sans', sans-serif;
   font-size: 22px;
   line-height: 40px;
   font-weight: 400;
@@ -276,7 +276,7 @@ h6 {
  * ====================================
  */
 .section-heading {
-  font-family: 'Merriweather', serif;
+  font-family: 'Pingfang SC', Helvetica, 'Hiragino Sans GB', 'STHeiti', 'WenQuanYi Micro Hei', 'Open Sans', sans-serif;
   color: #ffffff;
   display: inline-block;
   padding-bottom: 0px;
@@ -1613,7 +1613,7 @@ section.section {
   padding-top: 10px;
 }
 .services-section .each-services .each-services-inner .title {
-  font-family: 'Merriweather', serif;
+  font-family: 'Pingfang SC', Helvetica, 'Hiragino Sans GB', 'STHeiti', 'WenQuanYi Micro Hei', 'Open Sans', sans-serif;
   font-size: 30px;
   line-height: 65px;
   color: #ffffff;
@@ -1687,7 +1687,7 @@ section.section {
   transform: translate3d(-100%, 13px, 0);
 }
 .services-full-view .services-details .section-title {
-  font-family: 'Merriweather', serif;
+  font-family: 'Pingfang SC', Helvetica, 'Hiragino Sans GB', 'STHeiti', 'WenQuanYi Micro Hei', 'Open Sans', sans-serif;
   background-color: #ffffff;
   color: #282828;
   padding: 5px 30px;
@@ -1862,7 +1862,7 @@ section.section {
   height: 100px;
 }
 .project-detail .heading {
-  font-family: 'Merriweather', serif;
+  font-family: 'Pingfang SC', Helvetica, 'Hiragino Sans GB', 'STHeiti', 'WenQuanYi Micro Hei', 'Open Sans', sans-serif;
   margin-top: 0px;
 }
 .project-detail .list li {
@@ -1913,7 +1913,7 @@ section.section {
   text-align: left;
 }
 .heading-text .text {
-  font-family: 'Merriweather', serif;
+  font-family: 'Pingfang SC', Helvetica, 'Hiragino Sans GB', 'STHeiti', 'WenQuanYi Micro Hei', 'Open Sans', sans-serif;
   font-size: 55px;
   line-height: 65px;
   font-weight: 400;
