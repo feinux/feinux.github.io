@@ -6,7 +6,7 @@
     <head>     
   
         <!-- TITLE OF SITE --> 
-        <title>杨鹏飞・Maker</title>
+        <title>杨鹏飞・Content Maker</title>
   
         <!-- Meta -->
         <meta charset="utf-8">
@@ -98,6 +98,8 @@
                     <ul class="nav navbar-nav navbar-right" id="navbar-nav">
                         <li><a class="btn-nav" href="#services-section">Intro</a></li>
                         <li><a class="btn-nav" href="#portfolio-section">Skills</a></li>
+                        <li><a class="btn-nav" href="#testimonial-section">Experiences</a></li>
+                        <li><a class="btn-nav" href="#team-section">Others</a></li>
                         <li><a class="btn-nav" href="#contact-us-section">Contact</a></li>
                     </ul>
                 </div>
@@ -148,7 +150,7 @@
                                             <li>
                                                 <a href="images/qrwechat.jpg">   
                                                     <i class="icon icon-icon-chat-alt"></i>
-                                                    <strong>286240237</strong>
+                                                    <strong>电话：286240237</strong>
                                                 </a>
                                             </li>
                                             <li><a class="btn-mask" href="#"><i class="icon icon-icon-phone"></i> <strong>158 1018 5895</strong></a></li>
@@ -236,41 +238,6 @@
 
                             <div class="each-services col-sm-4 col-xs-12">
                                 <div class="each-services-inner">
-
-                                    <div class="overflow">
-                                        <div class="features-icon-outer wow">
-                                            <i class="icon icon-icon-pens features-icon"></i>
-                                        </div>
-                                    </div>
-                                    <div class="overflow">
-                                        <div class="title-outer wow">
-                                            <h4 class="title">Maker.</h4>
-                                            <blockquote><i class="icon icon-icon-stop"></i>「在胡同」项目联合创始人、产品制作人、运营、客服<br><i class="icon icon-icon-stop"></i>利用身边一切事物来创造新奇好玩的新产品和活动装置<br><i class="icon icon-icon-stop"></i>秉承逗、趣、乐的精神制作新奇作品</blockquote>
-                                        </div>
-                                    </div>
-                                    <div class="overflow">
-                                        <div class="overflow">
-                                        <div class="pera-outer wow">
-                                        做过：<br><br>
-                                            <i class="icon icon-icon-stop"></i>制作「在胡同」热缩片工艺品<br>
-                                            <i class="icon icon-icon-stop"></i>国内早期Airbnb Host<br>
-                                            <i class="icon icon-icon-stop"></i>Instagram重度用户。热衷摄影及后期创作<br>
-                                            <i class="icon icon-icon-stop"></i>Markdown爱好者并建立维护一个专题<br>
-                                            <i class="icon icon-icon-stop"></i>发起过多个好玩的活动<br>
-                                            <i class="icon icon-icon-stop"></i>制作线下活动的互动装置<br>
-                                        </div>
-                                        </div>
-                                    </div>
-                                    <div class="overflow m-t-30">
-                                        <div class="btn-form-outer wow">  <!-- Button Area -->
-                                            <a href="#services-3" class="btn right-icon btn-services btn-mask">完整经历 <i class="icon icon-arrow-right"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> <!-- End: .each-services -->
-
-                            <div class="each-services col-sm-4 col-xs-12">
-                                <div class="each-services-inner">
                                     
                                     <div class="overflow">
                                         <div class="features-icon-outer wow">
@@ -284,8 +251,12 @@
                                     </div>
                                     <div class="overflow">
                                         <div class="pera-outer wow">
-                                            <p> <blockquote><i class="icon icon-icon-stop"></i>涉猎科技、技术、产品、设计、创客、艺术各领域<br><i class="icon icon-icon-stop"></i>只做<strong>有态度、有内涵、有价值</strong>的内容<br><i class="icon icon-icon-stop"></i>3年科技媒体记者；1年新媒体运营<br><i class="icon icon-icon-stop"></i>黑莓中国App大赛主评审<br><i class="icon icon-icon-stop"></i>微信运营、微博运营</blockquote>
-                                                经历公司：<br><br>
+                                            <p> <blockquote><i class="icon icon-icon-stop"></i>阅遍千万App，保持每天下载App的习惯<br><i class="icon icon-icon-stop"></i>涉猎科技、技术、产品、设计、创客、艺术各领域<br><i class="icon icon-icon-stop"></i>只做<strong>有态度、有内涵、有价值</strong>的内容<br></blockquote></p>
+
+                                            <i class="icon icon-icon-stop"></i>3年科技媒体记者；1年新媒体运营<br><i class="icon icon-icon-stop"></i>撰写高质量文章，黑莓中国App大赛主评审，微博微信运营
+                                                  <br>
+                                                <br/>
+                                                经历公司：<br>
                                                 <i class="icon icon-icon-stop"></i>CSDN<br>
                                                 <i class="icon icon-icon-stop"></i>51CTO<br>
                                             </p>
@@ -317,9 +288,10 @@
                                     <div class="overflow">
                                         <div class="overflow">
                                         <div class="pera-outer wow">
-                                            <p><blockquote><i class="icon icon-icon-stop"></i>4年产品<br><i class="icon icon-icon-stop"></i>经手多个产品类型<br><i class="icon icon-icon-stop"></i>从零到一作出产品<br><i class="icon icon-icon-stop"></i>负责过新闻App、广告后台系统、Wi-Fi联网App、资讯网站、创业众筹类网站</blockquote>
+                                            <p><blockquote><i class="icon icon-icon-stop"></i>4年产品<br><i class="icon icon-icon-stop"></i>经手多个产品类型<br><i class="icon icon-icon-stop"></i>从零到一作出产品</blockquote>
 
-                                                
+                                                负责过新闻App、广告后台系统、Wi-Fi联网App、资讯网站、创业众筹类网站
+                                                <br/><br/>
                                                 经历公司：<br><br>
                                                 <i class="icon icon-icon-stop"></i>51CTO<br>
                                                 <i class="icon icon-icon-stop"></i>联创网<br>
@@ -338,7 +310,40 @@
                                 </div>
                             </div> <!-- End: .each-services -->
 
-                            
+                            <div class="each-services col-sm-4 col-xs-12">
+                                <div class="each-services-inner">
+
+                                    <div class="overflow">
+                                        <div class="features-icon-outer wow">
+                                            <i class="icon icon-icon-pens features-icon"></i>
+                                        </div>
+                                    </div>
+                                    <div class="overflow">
+                                        <div class="title-outer wow">
+                                            <h4 class="title">Maker.</h4>
+                                            <blockquote><i class="icon icon-icon-stop"></i>制作活动装置<br><i class="icon icon-icon-stop"></i>利用身边一切事物来创造新奇好玩的新产品<br><i class="icon icon-icon-stop"></i>秉承逗、趣、乐的精神制作新奇作品</blockquote>
+                                        </div>
+                                    </div>
+                                    <div class="overflow">
+                                        <div class="overflow">
+                                        <div class="pera-outer wow">
+                                        做过：<br><br>
+                                            <i class="icon icon-icon-stop"></i>制作热缩片工艺品<br>
+                                            <i class="icon icon-icon-stop"></i>国内早期Airbnb Host<br>
+                                            <i class="icon icon-icon-stop"></i>Instagram重度用户。热衷摄影及后期创作<br>
+                                            <i class="icon icon-icon-stop"></i>Markdown爱好者并建立维护该类专题<br>
+                                            <i class="icon icon-icon-stop"></i>发起过多个好玩的活动<br>
+                                            <i class="icon icon-icon-stop"></i>为主办方制作活动装置<br>
+                                        </div>
+                                        </div>
+                                    </div>
+                                    <div class="overflow m-t-30">
+                                        <div class="btn-form-outer wow">  <!-- Button Area -->
+                                            <a href="#services-3" class="btn right-icon btn-services btn-mask">完整经历 <i class="icon icon-arrow-right"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div> <!-- End: .each-services -->
 
                         </div> 
                         <!-- End: Each Services Section -->
@@ -390,21 +395,10 @@
 
                                                     <p><strong>CSDN任职期间：</strong>
                                                         <ul>
-                                                            <li>研究前沿技术，第一时间传递给读者，流量全站最高；并维护频道微博账户</li>
+                                                            <li>研究前沿技术并能将其明确传递给技术读者，而非简单的编译国外新闻。负责频道流量全站最高</li>
                                                             <li>采访中外技术达人，包括原三星公司VP；各创始公司创始人、技术合伙人等；深入解读其所倡导的技术理念</li>
                                                             <li>黑莓大中华区首届App大赛评委</li>
                                                             <li>为公司主办、协办，以及其他技术峰会进行现场报道、宣传文案及会后新闻稿，软文也要写的「有营养有价值」</li>
-                                                        </ul> <!-- Need more details -->
-
-                                                    </p>
-                                                </div>
-                                                <div class="pera-outer">
-
-                                                    <p><strong>51CTO任职期间：</strong>
-                                                        <ul>
-                                                            <li>较早创建公司官方微信帐号，赋予其人格，拉近和读者的距离</li>
-                                                            <li>利用所有可以用到微信中的功能，拓展图文内容以外的内容形式。例如女生朗读单词、有奖活动、</li>
-                                                            <li>创建微信社区，推出针对读者需求的互动话题</li>
                                                         </ul> <!-- Need more details -->
 
                                                     </p>
@@ -413,7 +407,12 @@
 
 
 
-                                           
+                                            <div class="overflow">
+                                                <div class="btn-outer m-t-50">
+                                                    <a href="#contact-us-section" class="btn btn-fill right-icon">来约！ <i class="icon icon-arrow-right"></i></a>
+                                                </div>
+                                            </div>
+
                                         </div> <!-- End: .services-content-outer -->
                                     </div> <!-- End: Content Area -->
                                     
@@ -463,21 +462,30 @@
 
                                             <div class="overflow">
                                                 <div class="pera-outer">
+
                                                     <p><strong>51CTO任职期间：</strong>
                                                         <ul>
-                                                            <li>从零到一51CTO官方App。独立完成产品策划、原型图及需求文档撰写</li>
-                                                            <li>负责把控UI设计方向，策划产品功能、负责推进产品进度、产品版本迭代，及产品验收</li>
+                                                            <li>全程负责51CTO官方App。独立完成产品策划、原型图及需求文档撰写</li>
+                                                            <li>对同类产品进行竟品分析，并针对51CTO特殊的网站架构进行分析，找出最优化的解决方案</li>
+                                                            <li>负责把控UI设计方向，根据网站的故有UI设计色彩规范</li>
+                                                            <li>负责策划产品功能，根据时间进度和开发情况，权衡功能的取舍及更改</li>
+                                                            <li>负责推进产品进度、产品版本迭代，及产品验收</li>
+                                                            <li>负责提交App到AppStore，撰写产品介绍，并在reject后能够分析原因，指导开发进行修改</li>
+                                                            <li>配合商务同事在不影响现有产品结构的情况下，适当加入广告位</li>
                                                         </ul>
                                                     </p>
+
                                                 </div>
                                             </div>
 
-
                                             <div class="overflow">
                                                 <div class="pera-outer">
+
                                                     <p><strong>联创网任职期间：</strong> 
                                                         <ul>
-                                                            <li>资讯百科频道web端产品设计，对网站的UI、内容分类进行设计和规划</li>
+                                                            <li>资讯百科频道web端产品设计，针对同类型网站如quirk、kickstater等进行研究</li>
+                                                            <li>对网站的UI、内容分类进行设计和规划</li>
+                                                            <li>及时和部门沟通，对需求的改动进行讨论和评估，确保需求改动能够及时传达到所有参与的部门</li>
                                                             <li>独立完成针对网站的社区App产品策划，把控UI设计、功能开发和产品进度</li>
                                                         </ul>
                                                 </div>
@@ -490,8 +498,12 @@
 
                                                     <p><strong>航美传媒任职期间：</strong> 
                                                         <ul>
-                                                            <li>负责交通工具Wi-Fi连接App（现更名往返）及移动网页Portal从零到一实现</li>
-                                                            <li>策划并设计公司内部广告后台管理系统ADMS</li>
+                                                            <li>负责交通工具Wi-Fi连接App（现更名往返）及移动网页Portal</li>
+                                                            <li>做过广告后台管理系统，主要功能包括广告主管理、价格管理、广告排期等</li>
+                                                            <li>根据业务需求确定产品形态、产品功能及界面布局</li>
+                                                            <li>收集并分析用户需求，分析用户场景，确定产品提供的服务内容</li>
+                                                            <li>搜集公司广告销售人员的业务需求，理清广告销售的业务逻辑和流程</li>
+                                                            <li>对广告系统进行选型调研，确定合适的广告管理系统</li>
                                                             <li>把控产品进度，进行产品验收</li>
                                                         </ul>
                                                 </div>
@@ -503,6 +515,7 @@
                                                     <p><strong>极客公园任职期间：</strong> 
                                                         <ul>
                                                             <li>在原有网站产品上进行功能迭代和版本修改</li>
+                                                            <li>把控网站UI，在缺少UI的情况下，重新调整工作中心</li>
                                                             <li>根据用户反馈，对产品流程进行修改</li>
                                                             <li>调研不同的支付平台，结合法律限定、网站需求以及用户使用体验，对支付平台进行选型</li>
                                                         </ul>
@@ -510,6 +523,12 @@
                                             </div>
 
                                             
+
+                                            <div class="overflow">
+                                                <div class="btn-outer m-t-50">
+                                                    <a href="#contact-us-section" class="btn btn-fill right-icon">来约！ <i class="icon icon-arrow-right"></i></a>
+                                                </div>
+                                            </div>
 
                                         </div> <!-- End: .services-content-outer -->
                                     </div> <!-- End: Content Area -->
@@ -543,12 +562,12 @@
                                             </div>
 
                                             <div class="section-title-outer overflow">
-                                                <h3 class="section-title">Maker.</h3>
+                                                <h3 class="section-title">MultiFaces.</h3>
                                             </div>
 
                                             <div class="overflow m-b-15">
                                                 <div class="title-outer">
-                                                    <h6 class="title relative">创作是一个让人振奋的过程。不能停止好奇心</h6>
+                                                    <h6 class="title relative">不能停止的好奇心</h6>
                                                 </div>
                                             </div>
 
@@ -556,12 +575,10 @@
                                                 <div class="pera-outer">
                                                     <p><strong>我正在做：</strong>
                                                         <ul>
-                                                            <li>Airbnb Host</li>
+                                                            <li>Aibbnb Host</li>
                                                             <li>摄影</li>
-                                                            <li>胡同文化研究：在胡同项目；Instagram、Facebook运营</li>
-                                                            <li>活动策划/互动装置制作</li>
-                                                            <li>热缩片工艺品制作、贩卖</li>
-                                                            <li>养两只猫一只狗</li>
+                                                            <li>胡同文化研究</li>
+                                                            <li>Fine Art DIY</li>
                                                         </ul>
                                                     </p>
                                                 </div>
@@ -569,21 +586,22 @@
 
                                             <div class="overflow">
                                                 <div class="pera-outer">
-                                                    <p><strong>我还做过：</strong>
+                                                    <p><strong>我还做过这些：</strong>
                                                         <ul>
                                                             <li>电子商务（淘宝上买黑莓手机的）</li>
                                                             <li>广告文案（Google关键字广告）</li>
-                                                            <li>线下实体经营（4平米摊位/夜市）</li>
-                                                            <li>内容营销，包括博客文章、社交平台图文等</li>
-                                                            <li>自由撰稿人，为科技媒体、营销媒体撰写内容</li>
-                                                            <li>给人做过网站</li>
-                                                            <li>线下活动发起人</li>
+                                                            <li>线下实体经营（4平米摊位）</li>
+                                                            <li>帮朋友做网站</li>
                                                         </ul>
                                                     </p>
                                                 </div>
                                             </div>
 
-                                            
+                                            <div class="overflow">
+                                                <div class="btn-outer m-t-50">
+                                                    <a href="#contact-us-section" class="btn btn-fill right-icon">来约！ <i class="icon icon-arrow-right"></i></a>
+                                                </div>
+                                            </div>
 
                                         </div> <!-- End: .services-content-outer -->
                                     </div> <!-- End: Content Area -->
@@ -608,10 +626,7 @@
             - SERVICES PAGE 
         ====================================-->
 
-    
-
-
-
+        
         <!--Start: 3rd Section  
             - Portfolio PAGE
         ====================================-->
@@ -626,7 +641,7 @@
 
                                     <!-- SLIDES -->
 
-                                    <!-- Start Item -->
+                                    
                                     <div class="item ">
                                         
                                         <div class="porifolio-section overflow">
@@ -634,7 +649,7 @@
                                             <div class="col-xs-10 col-xs-offset-1">
                                                 <div class="row">
                                                     <div class="image text-center">
-                                                        <img src="images/huodong.jpg" alt="Features Image">
+                                                        <img src="images/prototype1.jpg" alt="Features Image">
                                                     </div>
                                                 </div>
                                             </div>
@@ -644,32 +659,17 @@
                                                     <div class="line"></div>
                                                     <div class="overflow">
                                                         <div class="sub-heading-outer">
-                                                            <p class="sub-heading">元宵活动</p>
+                                                            <p class="sub-heading">部分作品</p>
                                                         </div>
                                                     </div>
-                                                    <div class="text overflow">
-                                                        <div class="inner">
-                                                            大栅栏<br>劝业厂
-                                                        </div>
-                                                    </div>
+                                                    
                                                 </div>
+
                                             </div>
 
-                                            <div class="link-list overflow wow">
-                                                <div class="link one overflow">
-                                                    <div class="inner">
-                                                        <a class="btn btn-project-detail right-icon btn-mask" href="http://www.100weidu.com/weixin/4KxOtIQ6Gy" data-element="project-detail">阅读原文 <i class="icon icon-arrow-right"></i></a>
-                                                    </div>
-                                                </div>
-                                                <div class="line hidden-xs"></div>
-                                            </div>
-
-                                        
                                         </div> 
-
                                     </div> <!-- End: .item -->
 
-                                    <!-- Start Item -->
                                     <div class="item ">
                                         
                                         <div class="porifolio-section overflow">
@@ -677,7 +677,7 @@
                                             <div class="col-xs-10 col-xs-offset-1">
                                                 <div class="row">
                                                     <div class="image text-center">
-                                                        <img src="images/huodong1.jpg" alt="Features Image">
+                                                        <img src="images/features-3.jpg" alt="Features Image">
                                                     </div>
                                                 </div>
                                             </div>
@@ -687,31 +687,17 @@
                                                     <div class="line"></div>
                                                     <div class="overflow">
                                                         <div class="sub-heading-outer">
-                                                            <p class="sub-heading">公益活动</p>
+                                                            <p class="sub-heading">众筹孵化加速平台</p>
                                                         </div>
                                                     </div>
-                                                    <div class="text overflow">
-                                                        <div class="inner">
-                                                            微杂院
-                                                        </div>
-                                                    </div>
+                                                    
                                                 </div>
+
                                             </div>
 
-                                            <div class="link-list overflow wow">
-                                                <div class="link one overflow">
-                                                    <div class="inner">
-                                                        <a class="btn btn-project-detail right-icon btn-mask" href="https://mp.weixin.qq.com/s?__biz=MzAwMjg4Njg3MA==&mid=2247483870&idx=1&sn=e7759db62707560d8262756f6560b07d&pass_ticket=MvNpJXKAPQTqthggO%2BbDHVyx%2FPMewDFVwBsGJuPfVP0aJzmZt0YfrckRl1uGxD67" data-element="project-detail">阅读原文 <i class="icon icon-arrow-right"></i></a>
-                                                    </div>
-                                                </div>
-                                                <div class="line hidden-xs"></div>
-                                            </div>
-                                        
                                         </div> 
-
                                     </div> <!-- End: .item -->
 
-                                    <!-- Start Item -->
                                     <div class="item ">
                                         
                                         <div class="porifolio-section overflow">
@@ -719,7 +705,7 @@
                                             <div class="col-xs-10 col-xs-offset-1">
                                                 <div class="row">
                                                     <div class="image text-center">
-                                                        <img src="images/huodong2.jpg" alt="Features Image">
+                                                        <img src="images/features-4.jpg" alt="Features Image">
                                                     </div>
                                                 </div>
                                             </div>
@@ -729,32 +715,17 @@
                                                     <div class="line"></div>
                                                     <div class="overflow">
                                                         <div class="sub-heading-outer">
-                                                            <p class="sub-heading">猎奇活动</p>
+                                                            <p class="sub-heading">部分作品</p>
                                                         </div>
                                                     </div>
-                                                    <div class="text overflow">
-                                                        <div class="inner">
-                                                            胡同公厕<br>探险
-                                                        </div>
-                                                    </div>
+                                                    
                                                 </div>
+
                                             </div>
 
-                                            <div class="link-list overflow wow">
-                                                <div class="link one overflow">
-                                                    <div class="inner">
-                                                        <a class="btn btn-project-detail right-icon btn-mask" href="http://www.100weidu.com/weixin/4KxOtIQ6Gy" data-element="project-detail">阅读原文 <i class="icon icon-arrow-right"></i></a>
-                                                    </div>
-                                                </div>
-                                                <div class="line hidden-xs"></div>
-                                            </div>
-                                        
                                         </div> 
-
                                     </div> <!-- End: .item -->
 
-
-                                    <!-- Start Item -->
                                     <div class="item ">
                                         
                                         <div class="porifolio-section overflow">
@@ -762,7 +733,7 @@
                                             <div class="col-xs-10 col-xs-offset-1">
                                                 <div class="row">
                                                     <div class="image text-center">
-                                                        <img src="images/zhuangzhi1.jpg" alt="Features Image">
+                                                        <img src="images/features-5.jpg" alt="Features Image">
                                                     </div>
                                                 </div>
                                             </div>
@@ -772,31 +743,17 @@
                                                     <div class="line"></div>
                                                     <div class="overflow">
                                                         <div class="sub-heading-outer">
-                                                            <p class="sub-heading">互动装置</p>
+                                                            <p class="sub-heading">乘客端</p>
                                                         </div>
                                                     </div>
-                                                    <div class="text overflow">
-                                                        <div class="inner">
-                                                            自制<br>扭蛋机
-                                                        </div>
-                                                    </div>
+                                                    
                                                 </div>
+
                                             </div>
 
-                                            <div class="link-list overflow wow">
-                                                <div class="link one overflow">
-                                                    <div class="inner">
-                                                        <a class="btn btn-project-detail right-icon btn-mask" href="http://mp.weixin.qq.com/s/WUlMD57FODtXkCgsM3J0Hg" data-element="project-detail">阅读原文 <i class="icon icon-arrow-right"></i></a>
-                                                    </div>
-                                                </div>
-                                                <div class="line hidden-xs"></div>
-                                            </div>
-                                        
                                         </div> 
-
                                     </div> <!-- End: .item -->
 
-                                    <!-- Start Item -->
                                     <div class="item ">
                                         
                                         <div class="porifolio-section overflow">
@@ -804,7 +761,7 @@
                                             <div class="col-xs-10 col-xs-offset-1">
                                                 <div class="row">
                                                     <div class="image text-center">
-                                                        <img src="images/zuopin1.jpg" alt="Features Image">
+                                                        <img src="images/features-6.jpg" alt="Features Image">
                                                     </div>
                                                 </div>
                                             </div>
@@ -814,24 +771,105 @@
                                                     <div class="line"></div>
                                                     <div class="overflow">
                                                         <div class="sub-heading-outer">
-                                                            <p class="sub-heading">工艺品</p>
+                                                            <p class="sub-heading">司称端</p>
                                                         </div>
                                                     </div>
-                                                    <div class="text overflow">
-                                                        <div class="inner">
-                                                            胡同元素
-                                                        </div>
+                                                    
+                                                </div>
+
+                                            </div>
+
+                                        </div> 
+                                    </div> <!-- End: .item -->
+
+                                    <div class="item ">
+                                        
+                                        <div class="porifolio-section overflow">
+
+                                            <div class="col-xs-10 col-xs-offset-1">
+                                                <div class="row">
+                                                    <div class="image text-center">
+                                                        <img src="images/features-7.jpg" alt="Features Image">
                                                     </div>
                                                 </div>
                                             </div>
+
+                                            <div class="each-portfolio-heading">
+                                                <div class="heading-text overflow wow">
+                                                    <div class="line"></div>
+                                                    <div class="overflow">
+                                                        <div class="sub-heading-outer">
+                                                            <p class="sub-heading">司称端</p>
+                                                        </div>
+                                                    </div>
+                                                    
+                                                </div>
+
+                                            </div>
+
+                                        </div> 
+                                    </div> <!-- End: .item -->
+
+                                    <div class="item ">
                                         
+                                        <div class="porifolio-section overflow">
+
+                                           <div class="col-xs-10 col-xs-offset-1">
+                                                <div class="row">
+                                                    <div class="image text-center">
+                                                        <img src="images/features-2.jpg" alt="Features Image">
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="each-portfolio-heading">
+                                                <div class="heading-text overflow wow">
+                                                    <div class="line"></div>
+                                                    <div class="overflow">
+                                                        <div class="sub-heading-outer">
+                                                            <p class="sub-heading">广告管理系统</p>
+                                                        </div>
+                                                    </div>
+                                                    
+                                                </div>
+
+                                                
+                                            </div>
+
                                         </div> 
 
                                     </div> <!-- End: .item -->
+                                    
+                                </div> <!-- End: .swiper-wrapper -->
+                            </div> <!-- End: .testimonials-container -->
+                        </div> <!-- End: .col-xs-12 -->
+
+                    </div> <!-- End: .row -->
+                </div> <!-- End: .container -->
+            </div> <!-- End: .inner-container -->
+
+        </div>
+        <!--End: 3rd Section  
+            - Portfolio PAGE
+        ====================================-->
 
 
 
-                                    <!-- Start Item -->
+        <!--Start: 3rd Section  
+            - Portfolio PAGE
+        ====================================-->
+        <div class=" section section-item semi-dark-background" id="portfolio-section">
+            <div class="inner-container ">
+                 <div class="container">
+                    <div class="row section-separator">
+
+                        <div class="col-sm-12 overflow">
+                            <div class="row portfolio-container wow">
+                                <div class="portfolio-wrapper pagination-style-1 owl-carousel">
+
+                                    <!-- SLIDES -->
+
+                                    
                                     <div class="item ">
                                         
                                         <div class="porifolio-section overflow">
@@ -849,12 +887,12 @@
                                                     <div class="line"></div>
                                                     <div class="overflow">
                                                         <div class="sub-heading-outer">
-                                                            <p class="sub-heading">摄影</p>
+                                                            <p class="sub-heading">个人爱好</p>
                                                         </div>
                                                     </div>
                                                     <div class="text overflow">
                                                         <div class="inner">
-                                                            摄影作品
+                                                            摄影
                                                         </div>
                                                     </div>
                                                 </div>
@@ -896,7 +934,7 @@
                                                     <div class="line"></div>
                                                     <div class="overflow">
                                                         <div class="sub-heading-outer">
-                                                            <p class="sub-heading">插画</p>
+                                                            <p class="sub-heading">工作之外</p>
                                                         </div>
                                                     </div>
                                                     <div class="text overflow">
@@ -910,76 +948,6 @@
                                         </div> 
 
                                     </div> <!-- End: .item -->
-
-                                    <!-- Start Item -->
-                                    <div class="item ">
-                                        
-                                        <div class="porifolio-section overflow">
-
-                                            <div class="col-xs-10 col-xs-offset-1">
-                                                <div class="row">
-                                                    <div class="image text-center">
-                                                        <img src="images/prototype1.jpg" alt="Features Image">
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="each-portfolio-heading">
-                                                <div class="heading-text overflow wow">
-                                                    <div class="line"></div>
-                                                    <div class="overflow">
-                                                        <div class="sub-heading-outer">
-                                                            <p class="sub-heading">产品原型</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="text overflow">
-                                                        <div class="inner">
-                                                            App原型
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        
-                                        </div> 
-
-                                    </div> <!-- End: .item -->
-
-                                    <!-- Start Item -->
-                                    <div class="item ">
-                                        
-                                        <div class="porifolio-section overflow">
-
-                                            <div class="col-xs-10 col-xs-offset-1">
-                                                <div class="row">
-                                                    <div class="image text-center">
-                                                        <img src="images/prototype2.jpg" alt="Features Image">
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="each-portfolio-heading">
-                                                <div class="heading-text overflow wow">
-                                                    <div class="line"></div>
-                                                    <div class="overflow">
-                                                        <div class="sub-heading-outer">
-                                                            <p class="sub-heading">产品原型</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="text overflow">
-                                                        <div class="inner">
-                                                            网站原型
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        
-                                        </div> 
-
-                                    </div> <!-- End: .item -->
-
-                                    
 
                                 </div> <!-- End: .swiper-wrapper -->
                             </div> <!-- End: .testimonials-container -->
@@ -1023,7 +991,7 @@
                                 </div>
                                 <div class="overflow">
                                     <div class="section-heading-outer p-l-50 p-r-50">
-                                        <h2 class="section-heading wow">联系方式</h2>
+                                        <h2 class="section-heading wow">老板，这是我的联系方式</h2>
                                     </div>
                                 </div>
                             </div>

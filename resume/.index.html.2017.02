@@ -236,41 +236,6 @@
 
                             <div class="each-services col-sm-4 col-xs-12">
                                 <div class="each-services-inner">
-
-                                    <div class="overflow">
-                                        <div class="features-icon-outer wow">
-                                            <i class="icon icon-icon-pens features-icon"></i>
-                                        </div>
-                                    </div>
-                                    <div class="overflow">
-                                        <div class="title-outer wow">
-                                            <h4 class="title">Maker.</h4>
-                                            <blockquote><i class="icon icon-icon-stop"></i>「在胡同」项目联合创始人、产品制作人、运营、客服<br><i class="icon icon-icon-stop"></i>利用身边一切事物来创造新奇好玩的新产品和活动装置<br><i class="icon icon-icon-stop"></i>秉承逗、趣、乐的精神制作新奇作品</blockquote>
-                                        </div>
-                                    </div>
-                                    <div class="overflow">
-                                        <div class="overflow">
-                                        <div class="pera-outer wow">
-                                        做过：<br><br>
-                                            <i class="icon icon-icon-stop"></i>制作「在胡同」热缩片工艺品<br>
-                                            <i class="icon icon-icon-stop"></i>国内早期Airbnb Host<br>
-                                            <i class="icon icon-icon-stop"></i>Instagram重度用户。热衷摄影及后期创作<br>
-                                            <i class="icon icon-icon-stop"></i>Markdown爱好者并建立维护一个专题<br>
-                                            <i class="icon icon-icon-stop"></i>发起过多个好玩的活动<br>
-                                            <i class="icon icon-icon-stop"></i>制作线下活动的互动装置<br>
-                                        </div>
-                                        </div>
-                                    </div>
-                                    <div class="overflow m-t-30">
-                                        <div class="btn-form-outer wow">  <!-- Button Area -->
-                                            <a href="#services-3" class="btn right-icon btn-services btn-mask">完整经历 <i class="icon icon-arrow-right"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> <!-- End: .each-services -->
-
-                            <div class="each-services col-sm-4 col-xs-12">
-                                <div class="each-services-inner">
                                     
                                     <div class="overflow">
                                         <div class="features-icon-outer wow">
@@ -284,8 +249,12 @@
                                     </div>
                                     <div class="overflow">
                                         <div class="pera-outer wow">
-                                            <p> <blockquote><i class="icon icon-icon-stop"></i>涉猎科技、技术、产品、设计、创客、艺术各领域<br><i class="icon icon-icon-stop"></i>只做<strong>有态度、有内涵、有价值</strong>的内容<br><i class="icon icon-icon-stop"></i>3年科技媒体记者；1年新媒体运营<br><i class="icon icon-icon-stop"></i>黑莓中国App大赛主评审<br><i class="icon icon-icon-stop"></i>微信运营、微博运营</blockquote>
-                                                经历公司：<br><br>
+                                            <p> <blockquote><i class="icon icon-icon-stop"></i>阅遍千万App，保持每天下载App的习惯<br><i class="icon icon-icon-stop"></i>涉猎科技、技术、产品、设计、创客、艺术各领域<br><i class="icon icon-icon-stop"></i>只做<strong>有态度、有内涵、有价值</strong>的内容<br></blockquote></p>
+
+                                            <i class="icon icon-icon-stop"></i>3年科技媒体记者；1年新媒体运营<br><i class="icon icon-icon-stop"></i>撰写高质量文章，黑莓中国App大赛主评审，微博微信运营
+                                                  <br>
+                                                <br/>
+                                                经历公司：<br>
                                                 <i class="icon icon-icon-stop"></i>CSDN<br>
                                                 <i class="icon icon-icon-stop"></i>51CTO<br>
                                             </p>
@@ -317,9 +286,10 @@
                                     <div class="overflow">
                                         <div class="overflow">
                                         <div class="pera-outer wow">
-                                            <p><blockquote><i class="icon icon-icon-stop"></i>4年产品<br><i class="icon icon-icon-stop"></i>经手多个产品类型<br><i class="icon icon-icon-stop"></i>从零到一作出产品<br><i class="icon icon-icon-stop"></i>负责过新闻App、广告后台系统、Wi-Fi联网App、资讯网站、创业众筹类网站</blockquote>
+                                            <p><blockquote><i class="icon icon-icon-stop"></i>4年产品<br><i class="icon icon-icon-stop"></i>经手多个产品类型<br><i class="icon icon-icon-stop"></i>从零到一作出产品</blockquote>
 
-                                                
+                                                负责过新闻App、广告后台系统、Wi-Fi联网App、资讯网站、创业众筹类网站
+                                                <br/><br/>
                                                 经历公司：<br><br>
                                                 <i class="icon icon-icon-stop"></i>51CTO<br>
                                                 <i class="icon icon-icon-stop"></i>联创网<br>
@@ -338,7 +308,40 @@
                                 </div>
                             </div> <!-- End: .each-services -->
 
-                            
+                            <div class="each-services col-sm-4 col-xs-12">
+                                <div class="each-services-inner">
+
+                                    <div class="overflow">
+                                        <div class="features-icon-outer wow">
+                                            <i class="icon icon-icon-pens features-icon"></i>
+                                        </div>
+                                    </div>
+                                    <div class="overflow">
+                                        <div class="title-outer wow">
+                                            <h4 class="title">Maker.</h4>
+                                            <blockquote><i class="icon icon-icon-stop"></i>「在胡同」项目联合创始人、产品制作人、运营、客服<br><i class="icon icon-icon-stop"></i>利用身边一切事物来创造新奇好玩的新产品和活动装置，秉承逗、趣、乐的精神制作新奇作品</blockquote>
+                                        </div>
+                                    </div>
+                                    <div class="overflow">
+                                        <div class="overflow">
+                                        <div class="pera-outer wow">
+                                        做过：<br><br>
+                                            <i class="icon icon-icon-stop"></i>制作「在胡同」热缩片工艺品<br>
+                                            <i class="icon icon-icon-stop"></i>国内早期Airbnb Host<br>
+                                            <i class="icon icon-icon-stop"></i>Instagram重度用户。热衷摄影及后期创作<br>
+                                            <i class="icon icon-icon-stop"></i>Markdown爱好者并建立维护该类专题<br>
+                                            <i class="icon icon-icon-stop"></i>发起过多个好玩的活动<br>
+                                            <i class="icon icon-icon-stop"></i>为主办方制作活动装置<br>
+                                        </div>
+                                        </div>
+                                    </div>
+                                    <div class="overflow m-t-30">
+                                        <div class="btn-form-outer wow">  <!-- Button Area -->
+                                            <a href="#services-3" class="btn right-icon btn-services btn-mask">完整经历 <i class="icon icon-arrow-right"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div> <!-- End: .each-services -->
 
                         </div> 
                         <!-- End: Each Services Section -->
